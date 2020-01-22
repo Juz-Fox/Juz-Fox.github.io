@@ -1,8 +1,8 @@
-## Welcome to Jorge's Pages
+### Welcome to A Entery Point Guide
 
-# I am a student in Software Development
+#Entery Point is a roblox stealth/ FPS action game developed by cash studios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Kill House: The training site for you to grinde. All the items for a quik loud plan or a langthy stealth game, you can knock out people in the game, 
 
 ### Markdown
 
