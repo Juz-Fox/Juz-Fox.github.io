@@ -1,6 +1,6 @@
 ## Welcome to Jorge's Pages
 
-I am a student in Software Development
+# I am a student in Software Development
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
