@@ -1,37 +1,22 @@
-### Welcome to A Entery Point Guide
+### Welcome to A Entery Point Guide/ Alittle bit about me
 
-#Entery Point is a roblox stealth/ FPS action game developed by cash studios.
+Hello i am jorge the creatore of this site, here i will explain, share, and creat information on this site for games, and othere prjects you may..or may not enjoy.
 
-The Kill House: The training site for you to grinde. All the items for a quik loud plan or a langthy stealth game, you can knock out people in the game, 
+#Entery Point is a roblox stealth/ FPS action game developed by cash studios. With may maps and game 3 game mods..you will find something for you. I will do a quik summery for all misions, you can disguise.
 
-### Markdown
+The Kill House: The training site for you to grinde. All the items for a quik loud plan or a langthy stealth game, you can knock out people in the game exept on other players.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+The Black Site: A langthy military base, it is recomended to go stleath for half or of the mission (If going loud) or full. Rescure the objective get a code then get out, simple.
 
-# Header 1
-## Header 2
-### Header 3
+The financier: A pent house up on the 13th floor. Get the power boxes to not trigger the alarms outside the pent house, get the safe, get the target last.
 
-- Bulleted
-- List
+The deposite: A clasic bank. Get in the bank, go up the stairs take out the cams first (1 on the second flr, 1 on the basment), take out everyone get the code, keycard and the sensores(Can be found by looking in the files in a room of the secnd floor).
 
-1. Numbered
-2. List
+The Lakehouse: The mane says it all. It is wise to complete this level in full stealth and fast(15-10 minutes tops). Can be done loud but is very tough but it is possible, get the code, get the gaurds out(Is recomended if you wanna get a smooth get away). Get the objective and escape.
 
-**Bold** and _Italic_ and `Code` text
+The Withdraw: A Fancyer bank. Get in by the front or a window. Find the main computer, Rewire the power boxes, get the manager to open the vault(Recomended to get the camera gaurd out first). Get the six bags of money out of the bank. Escape.
 
-[Link](url) and ![Image](src)
-```
+The scientist: Get in the house, go to the basment, find the keycard. Open the blast door, get the objective. Get to the server room, take out the gaurds. Then take out everyone around the premises. Escape.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Juz-Fox/Juz-Fox.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That is all for the missions, there are still more to come. Thank you.
